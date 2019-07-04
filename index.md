@@ -1,8 +1,8 @@
 ---
 layout: home
 title: Home
-landing-title: 'Book Little Luxton for your next event'
-description: null
+landing-title: 'Coffee cart for hire'
+description: We bring excellent coffee to your event - simple.
 image: null
 author: null
 show_tile: false
