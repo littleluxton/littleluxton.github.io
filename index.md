@@ -1,7 +1,7 @@
 ---
 layout: home
 title: Home
-landing-title: 'Hi, my name is Forty'
+landing-title: 'Book Little Luxton for your next event'
 description: null
 image: null
 author: null
