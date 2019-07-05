@@ -1,5 +1,5 @@
 ---
-title: our story
+title: landing
 layout: landing
 description: 'A little bit about how Little Luxton came to be...'
 image: assets/images/pic07.jpg
